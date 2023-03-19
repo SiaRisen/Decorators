@@ -1,0 +1,4 @@
+{'name': 'hello_world', 'datetime': 'Sun Mar 19 20:15:04 2023', 'args': (), 'kwargs': {}, 'return': 'Hello World'}
+{'name': 'summator', 'datetime': 'Sun Mar 19 20:15:04 2023', 'args': (2, 2), 'kwargs': {}, 'return': 4}
+{'name': 'div', 'datetime': 'Sun Mar 19 20:15:04 2023', 'args': (6, 2), 'kwargs': {}, 'return': 3.0}
+{'name': 'summator', 'datetime': 'Sun Mar 19 20:15:04 2023', 'args': (4.3,), 'kwargs': {'b': 2.2}, 'return': 6.5}

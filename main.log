@@ -1,0 +1,56 @@
+{
+	"name": "hello_world",
+	"datetime": "2023-03-19 20:15:14.356396",
+	"args": [],
+	"kwargs": {},
+	"return": "Hello World"
+}{
+	"name": "summator",
+	"datetime": "2023-03-19 20:15:14.356396",
+	"args": [
+		2,
+		2
+	],
+	"kwargs": {},
+	"return": 4
+}{
+	"name": "div",
+	"datetime": "2023-03-19 20:15:14.356396",
+	"args": [
+		6,
+		2
+	],
+	"kwargs": {},
+	"return": 3.0
+}{
+	"name": "summator",
+	"datetime": "2023-03-19 20:15:14.357395",
+	"args": [
+		4.3
+	],
+	"kwargs": {
+		"b": 2.2
+	},
+	"return": 6.5
+}{
+	"name": "summator",
+	"datetime": "2023-03-19 20:15:14.357395",
+	"args": [],
+	"kwargs": {
+		"a": 0,
+		"b": 0
+	},
+	"return": 0
+}{
+	"name": "detection",
+	"datetime": "2023-03-19 20:27:37.231944",
+	"args": [],
+	"kwargs": {
+		"hero_1": "Hulk",
+		"hero_2": "Captain America",
+		"hero_3": "Thanos"
+	},
+	"return": [
+		"Самый умный супергерой - Thanos:100"
+	]
+}
